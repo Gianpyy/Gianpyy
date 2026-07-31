@@ -12,18 +12,16 @@ In between exams, you'll find me developing arcade clones, tech demos, and proto
 
 
 ## 🛠️ Tech Stack
-* **Game Engines:** Godot Engine 4, Unity (Prior Experience)
-* **Languages:** GDScript, Python, Java, C, C#, Dart (with Flutter)
+* **Game Engines:** Godot Engine 4, Unity 
+* **Languages:** GDScript, C, C#, Python, Java, Dart (with Flutter)
 * **Testing, Quality & Tools:** Pytest, Selenium, SonarQube, Docker, Git/GitHub
 * **Backend & Databases:** FastAPI, Flask, SQLAlchemy, MySQL, MongoDB, PostgreSQL
 * **Academic Exposure:** Java EE, Machine Learning Basics (NumPy, Pandas, TensorFlow)
 
-**🧠 Core Practices:** I structure my code using **Design Patterns** and **SOLID principles**, with a strong focus on **Clean Code** and modular architectures (like **State Machines**).
-
 
 ## 🚀 What I'm currently working on
 * 🎓 Tackling the classes and exams for my Master's Degree.
-* 👾 Continuously leveling up my game development skills in Godot 4 by coding arcade clones, tech demos, and small prototypes.
+* 👾 Continuously leveling up my game development skills by coding arcade clones, tech demos, and small prototypes.
 * 🎮 Playing video games, as always!
 
 <!-- ### 📫 Where to find me -->
