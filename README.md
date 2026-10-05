@@ -1,43 +1,21 @@
-# Hi there, I'm Gianpio 👋
+# Hi, I'm Gianpio 👋
 
-🎓 **BSc Computer Science Graduate** | [L-31](https://corsi.unisa.it/INFORMATICA/en/home) @ UniSa
+Computer scientist + gamer since day one: it was only a matter of time before
+I started building games to figure out how they actually work (and learning
+that clean architecture makes even a Pac-Man clone more fun to write).
 
-📚 **MSc Software Engineering & IT Management Student** | [LM-18](https://corsi.unisa.it/informatica-magistrale/en/home) @ UniSa
+[![itch.io](https://img.shields.io/badge/Play_my_games-itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://gianpyygames.itch.io)
+[![Contact me](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:officialgianpy@gmail.com)
 
-👾 **Aspiring Game Developer**
+## 🛠️ Skills
+- **Game engines:** Godot 4 · Unity
+- **Languages:** Python · GDScript · C# · C · Java · Dart
+- **Quality & tools:** Pytest · Selenium · SonarQube · Docker · Git
+- **Backend & data:** FastAPI · Flask · SQLAlchemy · MySQL · MongoDB · PostgreSQL
 
-A gamer since day one, I build games because I genuinely love them—from the medium itself to the computer science behind it—and I'm working hard to turn this lifelong passion into my future career. 
+## 🎓 Education
+- MSc Software Engineering & IT Management ([LM-18](https://corsi.unisa.it/informatica-magistrale/en/home)) · in progress
+- BSc Computer Science ([L-31](https://corsi.unisa.it/INFORMATICA/en/home)) · graduated 2024
 
-In between exams, you'll find me developing arcade clones, tech demos, and prototypes. It's my favorite way to practice, focusing on bringing solid software engineering principles and clean architectures into every project I make.
-
-
-## 🛠️ Tech Stack
-* **Game Engines:** Godot Engine 4, Unity 
-* **Languages:** GDScript, C, C#, Python, Java, Dart (with Flutter)
-* **Testing, Quality & Tools:** Pytest, Selenium, SonarQube, Docker, Git/GitHub
-* **Backend & Databases:** FastAPI, Flask, SQLAlchemy, MySQL, MongoDB, PostgreSQL
-* **Academic Exposure:** Java EE, Machine Learning Basics (NumPy, Pandas, TensorFlow)
-
-
-## 🚀 What I'm currently working on
-* 🎓 Tackling the classes and exams for my Master's Degree.
-* 👾 Continuously leveling up my game development skills by coding arcade clones, tech demos, and small prototypes.
-* 🎮 Playing video games, as always!
-
-<!-- ### 📫 Where to find me -->
-[![Itch.io](https://img.shields.io/badge/Play_my_games-Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://gianpyygames.itch.io)
-
-<!--
-**Gianpyy/Gianpyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎮 Projects
+A few things I'm proud of, pinned right below 👇
